@@ -1,4 +1,4 @@
-# 区块链小白书
+# 区块链小白书(Blockchain description for beginners)
 
 [李笑来](http://lixiaolai.com)（著）&copy; 2019
 
